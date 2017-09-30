@@ -5,5 +5,5 @@ export default function(){
 		{ title: 'The Dark tower' },
 		{ title: 'Eloquoent Ruby' }
 
-	]
+	];
 }
