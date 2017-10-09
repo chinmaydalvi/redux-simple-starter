@@ -21,7 +21,7 @@ class BookList extends Component{
 
 }
 
-function mapStateToProps(state) {
+function mapStateToProps(state){
 	// This functions take applicate state as parameter here 
 	//application state means book-list and Active Book.
 
